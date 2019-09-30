@@ -39,8 +39,8 @@ def svm_loss(s):
     return loss
 
 def linear_cls(x,x_val,W,b):
-    s=np.full((10000,10),0,dtype=int) # 初始化分数矩阵
-    s_val=np.full((10000,10),0,dtype=int)
+    s=np.full((10000,10),0,dtype=float) # 初始化分数矩阵
+    s_val=np.full((10000,10),0,dtype=float)
     gradb=np.zeros((1,10)) # 初始化b的梯度
     gradW=np.zeros((10,3072)) # 初始化W的梯度
     tacc=0
@@ -53,12 +53,15 @@ def linear_cls(x,x_val,W,b):
         if np.argmax(s_val[i])==y_val[i]:
             vacc+=1
         for j in range(10):
-            if j!=y[i] and s[i,j]-s[i,y[i]]+1>0: # s[i][j]和s[i][y[i]]]贡献了loss（分别为+1和-1）
-                gradb[0,j]+=(1/10000) # note：必须写上第一维的0作为第一个index，否则报错
-                gradb[0,y[i]]-=(1/10000)
-                for k in range(3072):
-                    gradW[j,k]+=(x[i,k]/10000)
-                    gradW[y[i],k]-=(x[i,k]/10000)
+            if s[i,j]-s[i,y[i]]+1>0: # s[i][j]和s[i][y[i]]]贡献了loss（分别为+1和-1）
+                if j==y[i]:
+                    gradb[0,j]-=(1/10000)
+                    for k in range(3072):
+                        gradW[j,k]-=(x[i,k]/10000)
+                else:
+                    gradb[0,j]+=(1/10000) # note：必须写上第一维的0作为第一个index，否则报错
+                    for k in range(3072):
+                        gradW[j,k]+=(x[i,k]/10000)
     loss=svm_loss(s) # 分数矩阵设置完成，计算当前分数矩阵的loss
     return loss,tacc,vacc,gradW,gradb
 

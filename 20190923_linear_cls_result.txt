@@ -1,0 +1,300 @@
+epoch 0 starts:
+loss= 9.0352 train acc= 938 val acc= 963
+————————————————————
+epoch 1 starts:     
+loss= 9.0874 train acc= 941 val acc= 925
+————————————————————
+epoch 2 starts:     
+loss= 8.9832 train acc= 1007 val acc= 1004
+————————————————————
+epoch 3 starts:     
+loss= 9.6816 train acc= 1430 val acc= 1384
+————————————————————
+epoch 4 starts:
+loss= 10.2915 train acc= 1008 val acc= 1003
+————————————————————
+epoch 5 starts:
+loss= 9.6659 train acc= 1093 val acc= 1071
+————————————————————
+epoch 6 starts:
+loss= 9.9501 train acc= 1007 val acc= 1002
+————————————————————
+epoch 7 starts:
+loss= 9.3284 train acc= 1092 val acc= 1072
+————————————————————
+epoch 8 starts:
+loss= 8.8014 train acc= 1042 val acc= 1051
+————————————————————
+epoch 9 starts:
+loss= 9.661 train acc= 1187 val acc= 1195
+————————————————————
+epoch 10 starts:
+loss= 9.4001 train acc= 1022 val acc= 1013
+————————————————————
+epoch 11 starts:
+loss= 8.8991 train acc= 1257 val acc= 1229
+————————————————————
+epoch 12 starts:
+loss= 8.7726 train acc= 1077 val acc= 1082
+————————————————————
+epoch 13 starts:
+loss= 9.0179 train acc= 1405 val acc= 1365
+————————————————————
+epoch 14 starts:
+loss= 9.1105 train acc= 1048 val acc= 1038
+————————————————————
+epoch 15 starts:
+loss= 8.4207 train acc= 1373 val acc= 1362
+————————————————————
+epoch 16 starts:
+loss= 8.3175 train acc= 1181 val acc= 1185
+————————————————————
+epoch 17 starts:
+loss= 8.6347 train acc= 1577 val acc= 1561
+————————————————————
+epoch 18 starts:
+loss= 8.7344 train acc= 1117 val acc= 1095
+————————————————————
+epoch 19 starts:
+loss= 7.9631 train acc= 1685 val acc= 1622
+————————————————————
+epoch 20 starts:
+loss= 8.1245 train acc= 1299 val acc= 1264
+————————————————————
+epoch 21 starts:
+loss= 8.0333 train acc= 1871 val acc= 1803
+————————————————————
+epoch 22 starts:
+loss= 8.2211 train acc= 1314 val acc= 1282
+————————————————————
+epoch 23 starts:
+loss= 7.7625 train acc= 1985 val acc= 1886
+————————————————————
+epoch 24 starts:
+loss= 8.0576 train acc= 1398 val acc= 1372
+————————————————————
+epoch 25 starts:
+loss= 7.7168 train acc= 2023 val acc= 1964
+————————————————————
+epoch 26 starts:
+loss= 8.0215 train acc= 1403 val acc= 1378
+————————————————————
+epoch 27 starts:
+loss= 7.5991 train acc= 2042 val acc= 1957
+————————————————————
+epoch 28 starts:
+loss= 7.9339 train acc= 1454 val acc= 1428
+————————————————————
+epoch 29 starts:
+loss= 7.5269 train acc= 2062 val acc= 1993
+————————————————————
+epoch 30 starts:
+loss= 7.868 train acc= 1491 val acc= 1453
+————————————————————
+epoch 31 starts:
+loss= 7.4316 train acc= 2070 val acc= 2022
+————————————————————
+epoch 32 starts:
+loss= 7.7871 train acc= 1534 val acc= 1491
+————————————————————
+epoch 33 starts:
+loss= 7.379 train acc= 2066 val acc= 2040
+————————————————————
+epoch 34 starts:
+loss= 7.7154 train acc= 1546 val acc= 1502
+————————————————————
+epoch 35 starts:
+loss= 7.3321 train acc= 2064 val acc= 2025
+————————————————————
+epoch 36 starts:
+loss= 7.6446 train acc= 1565 val acc= 1524
+————————————————————
+epoch 37 starts:
+loss= 7.281 train acc= 2063 val acc= 2034
+————————————————————
+epoch 38 starts:
+loss= 7.5828 train acc= 1591 val acc= 1569
+————————————————————
+epoch 39 starts:
+loss= 7.2375 train acc= 2009 val acc= 2014
+————————————————————
+epoch 40 starts:
+loss= 7.5258 train acc= 1609 val acc= 1582
+————————————————————
+epoch 41 starts:
+loss= 7.1802 train acc= 2015 val acc= 2032
+————————————————————
+epoch 42 starts:
+loss= 7.4825 train acc= 1638 val acc= 1606
+————————————————————
+epoch 43 starts:
+loss= 7.1317 train acc= 2039 val acc= 2045
+————————————————————
+epoch 44 starts:
+loss= 7.4275 train acc= 1676 val acc= 1628
+————————————————————
+epoch 45 starts:
+loss= 7.0707 train acc= 2054 val acc= 2046
+————————————————————
+epoch 46 starts:
+loss= 7.3728 train acc= 1713 val acc= 1650
+————————————————————
+epoch 47 starts:
+loss= 7.0496 train acc= 2057 val acc= 2067
+————————————————————
+epoch 48 starts:
+loss= 7.3192 train acc= 1738 val acc= 1679
+————————————————————
+epoch 49 starts:
+loss= 7.0152 train acc= 2079 val acc= 2081
+————————————————————
+epoch 50 starts:
+loss= 7.2937 train acc= 1757 val acc= 1702
+————————————————————
+epoch 51 starts:
+loss= 6.979 train acc= 2095 val acc= 2102
+————————————————————
+epoch 52 starts:
+loss= 7.2336 train acc= 1801 val acc= 1752
+————————————————————
+epoch 53 starts:
+loss= 6.9748 train acc= 2102 val acc= 2114
+————————————————————
+epoch 54 starts:
+loss= 7.1969 train acc= 1826 val acc= 1775
+————————————————————
+epoch 55 starts:
+loss= 6.9375 train acc= 2121 val acc= 2126
+————————————————————
+epoch 56 starts:
+loss= 7.1382 train acc= 1861 val acc= 1790
+————————————————————
+epoch 57 starts:
+loss= 6.9022 train acc= 2141 val acc= 2144
+————————————————————
+epoch 58 starts:
+loss= 7.1203 train acc= 1875 val acc= 1808
+————————————————————
+epoch 59 starts:
+loss= 6.8624 train acc= 2154 val acc= 2148
+————————————————————
+epoch 60 starts:
+loss= 7.0782 train acc= 1910 val acc= 1841
+————————————————————
+epoch 61 starts:
+loss= 6.8337 train acc= 2177 val acc= 2169
+————————————————————
+epoch 62 starts:
+loss= 7.0498 train acc= 1930 val acc= 1862
+————————————————————
+epoch 63 starts:
+loss= 6.8051 train acc= 2192 val acc= 2173
+————————————————————
+epoch 64 starts:
+loss= 7.0053 train acc= 1951 val acc= 1888
+————————————————————
+epoch 65 starts:
+loss= 6.767 train acc= 2213 val acc= 2182
+————————————————————
+epoch 66 starts:
+loss= 6.9817 train acc= 1957 val acc= 1912
+————————————————————
+epoch 67 starts:
+loss= 6.7337 train acc= 2233 val acc= 2197
+————————————————————
+epoch 68 starts:
+loss= 6.9238 train acc= 1991 val acc= 1944
+————————————————————
+epoch 69 starts:
+loss= 6.717 train acc= 2239 val acc= 2210
+————————————————————
+epoch 70 starts:
+loss= 6.9078 train acc= 2003 val acc= 1957
+————————————————————
+epoch 71 starts:
+loss= 6.6847 train acc= 2259 val acc= 2232
+————————————————————
+epoch 72 starts:
+loss= 6.8815 train acc= 2024 val acc= 1982
+————————————————————
+epoch 73 starts:
+loss= 6.6647 train acc= 2270 val acc= 2225
+————————————————————
+epoch 74 starts:
+loss= 6.85 train acc= 2058 val acc= 2003
+————————————————————
+epoch 75 starts:
+loss= 6.6558 train acc= 2264 val acc= 2230
+————————————————————
+epoch 76 starts:
+loss= 6.8191 train acc= 2079 val acc= 2029
+————————————————————
+epoch 77 starts:
+loss= 6.6354 train acc= 2271 val acc= 2243
+————————————————————
+epoch 78 starts:
+loss= 6.796 train acc= 2095 val acc= 2041
+————————————————————
+epoch 79 starts:
+loss= 6.6207 train acc= 2278 val acc= 2251
+————————————————————
+epoch 80 starts:
+loss= 6.7815 train acc= 2105 val acc= 2050
+————————————————————
+epoch 81 starts:
+loss= 6.603 train acc= 2286 val acc= 2259
+————————————————————
+epoch 82 starts:
+loss= 6.7712 train acc= 2112 val acc= 2064
+————————————————————
+epoch 83 starts:
+loss= 6.5917 train acc= 2283 val acc= 2263
+————————————————————
+epoch 84 starts:
+loss= 6.7512 train acc= 2131 val acc= 2072
+————————————————————
+epoch 85 starts:
+loss= 6.5644 train acc= 2297 val acc= 2261
+————————————————————
+epoch 86 starts:
+loss= 6.7334 train acc= 2152 val acc= 2081
+————————————————————
+epoch 87 starts:
+loss= 6.5438 train acc= 2308 val acc= 2267
+————————————————————
+epoch 88 starts:
+loss= 6.7124 train acc= 2163 val acc= 2091
+————————————————————
+epoch 89 starts:
+loss= 6.5279 train acc= 2319 val acc= 2273
+————————————————————
+epoch 90 starts:
+loss= 6.6942 train acc= 2178 val acc= 2091
+————————————————————
+epoch 91 starts:
+loss= 6.5063 train acc= 2332 val acc= 2275
+————————————————————
+epoch 92 starts:
+loss= 6.6753 train acc= 2191 val acc= 2090
+————————————————————
+epoch 93 starts:
+loss= 6.4925 train acc= 2345 val acc= 2281
+————————————————————
+epoch 94 starts:
+loss= 6.656 train acc= 2209 val acc= 2099
+————————————————————
+epoch 95 starts:
+loss= 6.4844 train acc= 2342 val acc= 2292
+————————————————————
+epoch 96 starts:
+loss= 6.6547 train acc= 2210 val acc= 2112
+————————————————————
+epoch 97 starts:
+loss= 6.4723 train acc= 2339 val acc= 2309
+————————————————————
+epoch 98 starts:
+loss= 6.6652 train acc= 2221 val acc= 2118
+————————————————————
+epoch 99 starts:
+loss= 6.4622 train acc= 2362 val acc= 2316
+————————————————————
